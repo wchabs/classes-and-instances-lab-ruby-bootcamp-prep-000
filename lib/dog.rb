@@ -2,6 +2,5 @@ class Dog
   
 end
 
-class Person
-  
-end
+
+fido = Dog.new
