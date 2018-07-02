@@ -1,7 +1,7 @@
-def Dog
+class Dog
   
 end
 
-def Person
+class Person
   
 end
